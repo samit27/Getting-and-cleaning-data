@@ -6,7 +6,7 @@
 * tidy_dataset.txt is the tidy dataset with the average of each variable for each activity and each subject.
 * README.md is this file to explain the analysis steps and list of files for the project.
 
-##Steps to create the tidy dataset:
+## Steps to create the tidy dataset:
 The R script run_analysis.R will create the tidy data set from the source data. It retrieves the source data set and transforms it to the final data set by implementing the following steps:
 
 * Download and unzip the source data
